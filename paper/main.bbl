@@ -1,0 +1,365 @@
+\begin{thebibliography}{}
+\makeatletter
+\relax
+\def\mn@urlcharsother{\let\do\@makeother \do\$\do\&\do\#\do\^\do\_\do\%\do\~}
+\def\mn@doi{\begingroup\mn@urlcharsother \@ifnextchar [ {\mn@doi@}
+  {\mn@doi@[]}}
+\def\mn@doi@[#1]#2{\def\@tempa{#1}\ifx\@tempa\@empty \href
+  {http://dx.doi.org/#2} {doi:#2}\else \href {http://dx.doi.org/#2} {#1}\fi
+  \endgroup}
+\def\mn@eprint#1#2{\mn@eprint@#1:#2::\@nil}
+\def\mn@eprint@arXiv#1{\href {http://arxiv.org/abs/#1} {{\tt arXiv:#1}}}
+\def\mn@eprint@dblp#1{\href {http://dblp.uni-trier.de/rec/bibtex/#1.xml}
+  {dblp:#1}}
+\def\mn@eprint@#1:#2:#3:#4\@nil{\def\@tempa {#1}\def\@tempb {#2}\def\@tempc
+  {#3}\ifx \@tempc \@empty \let \@tempc \@tempb \let \@tempb \@tempa \fi \ifx
+  \@tempb \@empty \def\@tempb {arXiv}\fi \@ifundefined
+  {mn@eprint@\@tempb}{\@tempb:\@tempc}{\expandafter \expandafter \csname
+  mn@eprint@\@tempb\endcsname \expandafter{\@tempc}}}
+
+\bibitem[\protect\citeauthoryear{Angulo, Springel, White, Jenkins, Baugh  \&
+  Frenk}{Angulo et~al.}{2012}]{angulo2012scaling}
+Angulo R.,  Springel V.,  White S.,  Jenkins A.,  Baugh C.,   Frenk C.,  2012,
+  MNRAS, 426, 2046
+
+\bibitem[\protect\citeauthoryear{Baldry, Balogh, Bower, Glazebrook, Nichol,
+  Bamford  \& Budavari}{Baldry et~al.}{2006}]{baldry2006galaxy}
+Baldry I.~K.,  Balogh M.~L.,  Bower R.,  Glazebrook K.,  Nichol R.~C.,  Bamford
+  S.~P.,   Budavari T.,  2006, MNRAS, 373, 469
+
+\bibitem[\protect\citeauthoryear{Ball \& Brunner}{Ball \&
+  Brunner}{2010}]{ball2010data}
+Ball N.~M.,  Brunner R.~J.,  2010, International Journal of Modern Physics D,
+  19, 1049
+
+\bibitem[\protect\citeauthoryear{Ball, Brunner, Myers  \& Tcheng}{Ball
+  et~al.}{2006}]{ball2006robust}
+Ball N.~M.,  Brunner R.~J.,  Myers A.~D.,   Tcheng D.,  2006, ApJ, 650, 497
+
+\bibitem[\protect\citeauthoryear{Ball, Brunner, Myers, Strand, Alberts, Tcheng
+  \& Llor{\`a}}{Ball et~al.}{2007}]{ball2007robust}
+Ball N.~M.,  Brunner R.~J.,  Myers A.~D.,  Strand N.~E.,  Alberts S.~L.,
+  Tcheng D.,   Llor{\`a} X.,  2007, ApJ, 663, 774
+
+\bibitem[\protect\citeauthoryear{Banerji et~al.,}{Banerji
+  et~al.}{2010}]{banerji2010galaxy}
+Banerji M.,  et~al., 2010, MNRAS, 406, 342
+
+\bibitem[\protect\citeauthoryear{Baugh}{Baugh}{2006}]{baugh2006primer}
+Baugh C.~M.,  2006, Reports on Progress in Physics, 69, 3101
+
+\bibitem[\protect\citeauthoryear{Behroozi, Conroy  \& Wechsler}{Behroozi
+  et~al.}{2010}]{behroozi2010comprehensive}
+Behroozi P.~S.,  Conroy C.,   Wechsler R.~H.,  2010, ApJ, 717, 379
+
+\bibitem[\protect\citeauthoryear{Benson}{Benson}{2012}]{benson2012galacticus}
+Benson A.~J.,  2012, New Astronomy, 17, 175
+
+\bibitem[\protect\citeauthoryear{Benson, Pearce, Frenk, Baugh  \&
+  Jenkins}{Benson et~al.}{2001}]{benson2001comparison}
+Benson A.,  Pearce F.,  Frenk C.,  Baugh C.,   Jenkins A.,  2001, MNRAS, 320,
+  261
+
+\bibitem[\protect\citeauthoryear{Blumenthal, Faber, Primack  \&
+  Rees}{Blumenthal et~al.}{1984}]{blumenthal1984formation}
+Blumenthal G.~R.,  Faber S.,  Primack J.~R.,   Rees M.~J.,  1984, Nature, 311,
+  517
+
+\bibitem[\protect\citeauthoryear{Bower, Benson, Malbon, Helly, Frenk, Baugh,
+  Cole  \& Lacey}{Bower et~al.}{2006}]{bower2006breaking}
+Bower R.,  Benson A.,  Malbon R.,  Helly J.,  Frenk C.,  Baugh C.,  Cole S.,
+  Lacey C.~G.,  2006, MNRAS, 370, 645
+
+\bibitem[\protect\citeauthoryear{Bower, Vernon, Goldstein, Benson, Lacey,
+  Baugh, Cole  \& Frenk}{Bower et~al.}{2010}]{bower2010parameter}
+Bower R.,  Vernon I.,  Goldstein M.,  Benson A.,  Lacey C.~G.,  Baugh C.,  Cole
+  S.,   Frenk C.,  2010, MNRAS, 407, 2017
+
+\bibitem[\protect\citeauthoryear{Boylan-Kolchin, Ma  \&
+  Quataert}{Boylan-Kolchin et~al.}{2008}]{boylan2008dynamical}
+Boylan-Kolchin M.,  Ma C.-P.,   Quataert E.,  2008, MNRAS, 383, 93
+
+\bibitem[\protect\citeauthoryear{Breiman}{Breiman}{1996}]{breiman1996bagging}
+Breiman L.,  1996, Machine learning, 24, 123
+
+\bibitem[\protect\citeauthoryear{Breiman}{Breiman}{2001}]{breiman2001random}
+Breiman L.,  2001, Machine learning, 45, 5
+
+\bibitem[\protect\citeauthoryear{Breiman, Friedman, Stone  \& Olshen}{Breiman
+  et~al.}{1984}]{breiman1984classification}
+Breiman L.,  Friedman J.,  Stone C.~J.,   Olshen R.~A.,  1984, Classification
+  and regression trees.
+CRC press
+
+\bibitem[\protect\citeauthoryear{Chabrier}{Chabrier}{2003}]{chabrier2003galactic}
+Chabrier G.,  2003, Publications of the Astronomical Society of the Pacific,
+  115, 763
+
+\bibitem[\protect\citeauthoryear{Cole, Aragon-Salamanca, Frenk, Navarro  \&
+  Zepf}{Cole et~al.}{1994}]{cole1994recipe}
+Cole S.,  Aragon-Salamanca A.,  Frenk C.~S.,  Navarro J.~F.,   Zepf S.~E.,
+  1994, MNRAS, 271, 781
+
+\bibitem[\protect\citeauthoryear{Cole, Lacey, Baugh  \& Frenk}{Cole
+  et~al.}{2000}]{cole2000hierarchical}
+Cole S.,  Lacey C.~G.,  Baugh C.~M.,   Frenk C.~S.,  2000, MNRAS, 319, 168
+
+\bibitem[\protect\citeauthoryear{Collaboration et~al.}{Collaboration
+  et~al.}{2015}]{planck2015planck}
+Collaboration P.,  et~al., 2015, arXiv preprint arXiv:1502.01589
+
+\bibitem[\protect\citeauthoryear{Conroy \& Wechsler}{Conroy \&
+  Wechsler}{2009}]{conroy2009connecting}
+Conroy C.,  Wechsler R.~H.,  2009, ApJ, 696, 620
+
+\bibitem[\protect\citeauthoryear{Contreras, Baugh, Norberg  \&
+  Padilla}{Contreras et~al.}{2015}]{contreras2015galaxy}
+Contreras S.,  Baugh C.,  Norberg P.,   Padilla N.,  2015, arXiv preprint
+  arXiv:1502.06614
+
+\bibitem[\protect\citeauthoryear{Croton et~al.,}{Croton
+  et~al.}{2006}]{croton2006many}
+Croton D.~J.,  et~al., 2006, MNRAS, 365, 11
+
+\bibitem[\protect\citeauthoryear{Cucciati et~al.,}{Cucciati
+  et~al.}{2012}]{cucciati2012comparison}
+Cucciati O.,  et~al., 2012, A\&A, 548, A108
+
+\bibitem[\protect\citeauthoryear{Davis, Efstathiou, Frenk  \& White}{Davis
+  et~al.}{1985}]{davis1985evolution}
+Davis M.,  Efstathiou G.,  Frenk C.~S.,   White S.~D.,  1985, ApJ, 292, 371
+
+\bibitem[\protect\citeauthoryear{De~La~Torre et~al.,}{De~La~Torre
+  et~al.}{2011}]{de2011comparison}
+De~La~Torre S.,  et~al., 2011, A\&A, 525, A125
+
+\bibitem[\protect\citeauthoryear{De~Lucia \& Blaizot}{De~Lucia \&
+  Blaizot}{2007}]{de2007hierarchical}
+De~Lucia G.,  Blaizot J.,  2007, MNRAS, 375, 2
+
+\bibitem[\protect\citeauthoryear{De~Lucia, Kauffmann  \& White}{De~Lucia
+  et~al.}{2004}]{de2004chemical}
+De~Lucia G.,  Kauffmann G.,   White S.~D.,  2004, MNRAS, 349, 1101
+
+\bibitem[\protect\citeauthoryear{De~Lucia, Springel, White, Croton  \&
+  Kauffmann}{De~Lucia et~al.}{2006}]{de2006formation}
+De~Lucia G.,  Springel V.,  White S.~D.,  Croton D.,   Kauffmann G.,  2006,
+  MNRAS, 366, 499
+
+\bibitem[\protect\citeauthoryear{De~Lucia, Boylan-Kolchin, Benson, Fontanot  \&
+  Monaco}{De~Lucia et~al.}{2010}]{de2010semi}
+De~Lucia G.,  Boylan-Kolchin M.,  Benson A.~J.,  Fontanot F.,   Monaco P.,
+  2010, MNRAS, 406, 1533
+
+\bibitem[\protect\citeauthoryear{Dieleman, Willett  \& Dambre}{Dieleman
+  et~al.}{2015}]{dieleman2015rotation}
+Dieleman S.,  Willett K.~W.,   Dambre J.,  2015, MNRAS, 450, 1441
+
+\bibitem[\protect\citeauthoryear{Faucher-Gigu{\`e}re, Kere{\v{s}}  \&
+  Ma}{Faucher-Gigu{\`e}re et~al.}{2011}]{faucher2011baryonic}
+Faucher-Gigu{\`e}re C.-A.,  Kere{\v{s}} D.,   Ma C.-P.,  2011, MNRAS, 417, 2982
+
+\bibitem[\protect\citeauthoryear{Fiorentin, Bailer-Jones, Lee, Beers, Sivarani,
+  Wilhelm, Prieto  \& Norris}{Fiorentin et~al.}{2007}]{fiorentin2007estimation}
+Fiorentin P.~R.,  Bailer-Jones C.,  Lee Y.,  Beers T.,  Sivarani T.,  Wilhelm
+  R.,  Prieto C.~A.,   Norris J.,  2007, A\&A, 467, 1373
+
+\bibitem[\protect\citeauthoryear{Gerdes, Sypniewski, McKay, Hao, Weis, Wechsler
+   \& Busha}{Gerdes et~al.}{2010}]{gerdes2010arborz}
+Gerdes D.~W.,  Sypniewski A.~J.,  McKay T.~A.,  Hao J.,  Weis M.~R.,  Wechsler
+  R.~H.,   Busha M.~T.,  2010, ApJ, 715, 823
+
+\bibitem[\protect\citeauthoryear{Geurts, Ernst  \& Wehenkel}{Geurts
+  et~al.}{2006}]{geurts2006extremely}
+Geurts P.,  Ernst D.,   Wehenkel L.,  2006, Machine learning, 63, 3
+
+\bibitem[\protect\citeauthoryear{Graff, Feroz, Hobson  \& Lasenby}{Graff
+  et~al.}{2014}]{graff2014skynet}
+Graff P.,  Feroz F.,  Hobson M.~P.,   Lasenby A.,  2014, MNRAS, 441, 1741
+
+\bibitem[\protect\citeauthoryear{Guo et~al.,}{Guo et~al.}{2011}]{guo2011dwarf}
+Guo Q.,  et~al., 2011, MNRAS, 413, 101
+
+\bibitem[\protect\citeauthoryear{Henriques, Thomas, Oliver  \&
+  Roseboom}{Henriques et~al.}{2009}]{henriques2009monte}
+Henriques B.~M.,  Thomas P.~A.,  Oliver S.,   Roseboom I.,  2009, MNRAS, 396,
+  535
+
+\bibitem[\protect\citeauthoryear{Henriques, White, Thomas, Angulo, Guo, Lemson
+  \& Springel}{Henriques et~al.}{2013}]{henriques2013simulations}
+Henriques B.~M.,  White S.~D.,  Thomas P.~A.,  Angulo R.~E.,  Guo Q.,  Lemson
+  G.,   Springel V.,  2013, MNRAS, 431, 3373
+
+\bibitem[\protect\citeauthoryear{Hopkins et~al.,}{Hopkins
+  et~al.}{2010}]{hopkins2010mergers}
+Hopkins P.~F.,  et~al., 2010, ApJ, 715, 202
+
+\bibitem[\protect\citeauthoryear{Ivezi{\'c}, Connolly, VanderPlas  \&
+  Gray}{Ivezi{\'c} et~al.}{2014}]{ivezic2014statistics}
+Ivezi{\'c} {\v{Z}}.,  Connolly A.~J.,  VanderPlas J.~T.,   Gray A.,  2014,
+  Statistics, Data Mining, and Machine Learning in Astronomy: A Practical
+  Python Guide for the Analysis of Survey Data: A Practical Python Guide for
+  the Analysis of Survey Data.
+Princeton University Press
+
+\bibitem[\protect\citeauthoryear{Johnson \& Zhang}{Johnson \&
+  Zhang}{2011}]{johnson2011learning}
+Johnson R.,  Zhang T.,  2011, arXiv preprint arXiv:1109.0887
+
+\bibitem[\protect\citeauthoryear{Kang, Jing, Mo  \& B{\"o}rner}{Kang
+  et~al.}{2005}]{kang2005semianalytical}
+Kang X.,  Jing Y.,  Mo H.,   B{\"o}rner G.,  2005, ApJ, 631, 21
+
+\bibitem[\protect\citeauthoryear{Kauffmann}{Kauffmann}{1996}]{kauffmann1996disc}
+Kauffmann G.,  1996, MNRAS, 281, 475
+
+\bibitem[\protect\citeauthoryear{Kauffmann, White  \& Guiderdoni}{Kauffmann
+  et~al.}{1993}]{kauffmann1993formation}
+Kauffmann G.,  White S.~D.,   Guiderdoni B.,  1993, MNRAS, 264, 201
+
+\bibitem[\protect\citeauthoryear{Kennicutt~Jr}{Kennicutt~Jr}{1998}]{kennicutt1998global}
+Kennicutt~Jr R.~C.,  1998, ApJ, 498, 541
+
+\bibitem[\protect\citeauthoryear{Kim, Brunner  \& Kind}{Kim
+  et~al.}{2015}]{kim2015hybrid}
+Kim E.~J.,  Brunner R.~J.,   Kind M.~C.,  2015, arXiv preprint arXiv:1505.02200
+
+\bibitem[\protect\citeauthoryear{Kind \& Brunner}{Kind \&
+  Brunner}{2013}]{kind2013tpz}
+Kind M.~C.,  Brunner R.~J.,  2013, MNRAS, 432, 1483
+
+\bibitem[\protect\citeauthoryear{Klypin, Trujillo-Gomez  \& Primack}{Klypin
+  et~al.}{2011}]{klypin2011dark}
+Klypin A.~A.,  Trujillo-Gomez S.,   Primack J.,  2011, ApJ, 740, 102
+
+\bibitem[\protect\citeauthoryear{Knebe et~al.,}{Knebe
+  et~al.}{2015}]{knebe2015nifty}
+Knebe A.,  et~al., 2015, arXiv preprint arXiv:1505.04607
+
+\bibitem[\protect\citeauthoryear{Lemson et~al.}{Lemson
+  et~al.}{2006}]{lemson2006halo}
+Lemson G.,  et~al., 2006, arXiv preprint astro-ph/0608019
+
+\bibitem[\protect\citeauthoryear{Liu \& Weisberg}{Liu \&
+  Weisberg}{2011}]{liu2011review}
+Liu Y.,  Weisberg R.~H.,  2011, A review of self-organizing map applications in
+  meteorology and oceanography.
+INTECH Open Access Publisher
+
+\bibitem[\protect\citeauthoryear{Liu, Yang, Mo, Van~den Bosch  \& Springel}{Liu
+  et~al.}{2010}]{liu2010stellar}
+Liu L.,  Yang X.,  Mo H.,  Van~den Bosch F.~C.,   Springel V.,  2010, ApJ, 712,
+  734
+
+\bibitem[\protect\citeauthoryear{Martin}{Martin}{1999}]{martin1999properties}
+Martin C.~L.,  1999, ApJ, 513, 156
+
+\bibitem[\protect\citeauthoryear{Mo, Mao  \& White}{Mo
+  et~al.}{1998}]{mo1998formation}
+Mo H.,  Mao S.,   White S.~D.,  1998, MNRAS, 295, 319
+
+\bibitem[\protect\citeauthoryear{Moster, Somerville, Maulbetsch, Van~den Bosch,
+  Macci{\`o}, Naab  \& Oser}{Moster et~al.}{2010}]{moster2010constraints}
+Moster B.~P.,  Somerville R.~S.,  Maulbetsch C.,  Van~den Bosch F.~C.,
+  Macci{\`o} A.~V.,  Naab T.,   Oser L.,  2010, ApJ, 710, 903
+
+\bibitem[\protect\citeauthoryear{Neistein \& Weinmann}{Neistein \&
+  Weinmann}{2010}]{neistein2010degeneracy}
+Neistein E.,  Weinmann S.~M.,  2010, MNRAS, 405, 2717
+
+\bibitem[\protect\citeauthoryear{Ntampaka, Trac, Sutherland, Battaglia, Poczos
+  \& Schneider}{Ntampaka et~al.}{2015}]{ntampaka2015machine}
+Ntampaka M.,  Trac H.,  Sutherland D.~J.,  Battaglia N.,  Poczos B.,
+  Schneider J.,  2015, ApJ, 803, 50
+
+\bibitem[\protect\citeauthoryear{Pedregosa et~al.,}{Pedregosa
+  et~al.}{2011}]{pedregosa2011scikit}
+Pedregosa F.,  et~al., 2011, The Journal of Machine Learning Research, 12, 2825
+
+\bibitem[\protect\citeauthoryear{Peebles}{Peebles}{1982}]{peebles1982large}
+Peebles P.,  1982, Astrophys. J, 263, L1
+
+\bibitem[\protect\citeauthoryear{Roe, Yang, Zhu, Liu, Stancu  \& McGregor}{Roe
+  et~al.}{2005}]{roe2005boosted}
+Roe B.~P.,  Yang H.-J.,  Zhu J.,  Liu Y.,  Stancu I.,   McGregor G.,  2005,
+  Nuclear Instruments and Methods in Physics Research Section A: Accelerators,
+  Spectrometers, Detectors and Associated Equipment, 543, 577
+
+\bibitem[\protect\citeauthoryear{Schaye et~al.,}{Schaye
+  et~al.}{2015}]{schaye2015eagle}
+Schaye J.,  et~al., 2015, MNRAS, 446, 521
+
+\bibitem[\protect\citeauthoryear{Silverman}{Silverman}{1986}]{silverman1986density}
+Silverman B.~W.,  1986, Density estimation for statistics and data analysis.
+ Vol. 26, CRC press
+
+\bibitem[\protect\citeauthoryear{Skillman, Warren, Turk, Wechsler, Holz  \&
+  Sutter}{Skillman et~al.}{2014}]{skillman2014dark}
+Skillman S.~W.,  Warren M.~S.,  Turk M.~J.,  Wechsler R.~H.,  Holz D.~E.,
+  Sutter P.,  2014, arXiv preprint arXiv:1407.2600
+
+\bibitem[\protect\citeauthoryear{Somerville \& Dav{\'e}}{Somerville \&
+  Dav{\'e}}{2014}]{somerville2014physical}
+Somerville R.~S.,  Dav{\'e} R.,  2014, arXiv preprint arXiv:1412.2712
+
+\bibitem[\protect\citeauthoryear{Somerville \& Primack}{Somerville \&
+  Primack}{1999}]{somerville1999semi}
+Somerville R.~S.,  Primack J.~R.,  1999, MNRAS, 310, 1087
+
+\bibitem[\protect\citeauthoryear{Somerville, Hopkins, Cox, Robertson  \&
+  Hernquist}{Somerville et~al.}{2008}]{somerville2008semi}
+Somerville R.~S.,  Hopkins P.~F.,  Cox T.~J.,  Robertson B.~E.,   Hernquist L.,
+   2008, MNRAS, 391, 481
+
+\bibitem[\protect\citeauthoryear{Springel}{Springel}{2005}]{springel2005cosmological}
+Springel V.,  2005, MNRAS, 364, 1105
+
+\bibitem[\protect\citeauthoryear{Springel, White, Tormen  \&
+  Kauffmann}{Springel et~al.}{2001}]{springel2001populating}
+Springel V.,  White S.~D.,  Tormen G.,   Kauffmann G.,  2001, MNRAS, 328, 726
+
+\bibitem[\protect\citeauthoryear{Springel et~al.,}{Springel
+  et~al.}{2005}]{springel2005simulations}
+Springel V.,  et~al., 2005, Nature, 435, 629
+
+\bibitem[\protect\citeauthoryear{Sutherland \& Dopita}{Sutherland \&
+  Dopita}{1993}]{sutherland1993cooling}
+Sutherland R.~S.,  Dopita M.~A.,  1993, ApJ Supplement Series, 88, 253
+
+\bibitem[\protect\citeauthoryear{Vogelsberger et~al.,}{Vogelsberger
+  et~al.}{2014}]{vogelsberger2014introducing}
+Vogelsberger M.,  et~al., 2014, MNRAS, 444, 1518
+
+\bibitem[\protect\citeauthoryear{Wang, Li, Kauffmann  \& De~Lucia}{Wang
+  et~al.}{2007}]{wang2007modelling}
+Wang L.,  Li C.,  Kauffmann G.,   De~Lucia G.,  2007, MNRAS, 377, 1419
+
+\bibitem[\protect\citeauthoryear{Weinmann, Kauffmann, Von Der~Linden  \&
+  De~Lucia}{Weinmann et~al.}{2010}]{weinmann2010cluster}
+Weinmann S.~M.,  Kauffmann G.,  Von Der~Linden A.,   De~Lucia G.,  2010, MNRAS,
+  406, 2249
+
+\bibitem[\protect\citeauthoryear{White \& Frenk}{White \&
+  Frenk}{1991}]{white1991galaxy}
+White S.~D.,  Frenk C.~S.,  1991, ApJ, 379, 52
+
+\bibitem[\protect\citeauthoryear{Witten \& Frank}{Witten \&
+  Frank}{2005}]{witten2005data}
+Witten I.~H.,  Frank E.,  2005, Data Mining: Practical machine learning tools
+  and techniques.
+Morgan Kaufmann
+
+\bibitem[\protect\citeauthoryear{Xu}{Xu}{1994}]{xu1994new}
+Xu G.,  1994, arXiv preprint astro-ph/9409021
+
+\bibitem[\protect\citeauthoryear{Xu, Ho, Trac, Schneider, Poczos  \&
+  Ntampaka}{Xu et~al.}{2013}]{xu2013first}
+Xu X.,  Ho S.,  Trac H.,  Schneider J.,  Poczos B.,   Ntampaka M.,  2013, ApJ,
+  772, 147
+
+\bibitem[\protect\citeauthoryear{Yoshida, Stoehr, Springel  \& White}{Yoshida
+  et~al.}{2002}]{yoshida2002gas}
+Yoshida N.,  Stoehr F.,  Springel V.,   White S.~D.,  2002, MNRAS, 335, 762
+
+\makeatother
+\end{thebibliography}
