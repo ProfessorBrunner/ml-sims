@@ -1,3 +1,3 @@
-# ml4cosmosims
-Machine Learning applied to Cosmological Simulations
+Machine Learning and Cosmological Simulations
+
 
