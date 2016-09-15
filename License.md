@@ -10,7 +10,8 @@ The Software (as defined below) will only be licensed to You (as defined below) 
    1.4. "Software" means the SMLL software source code and object code    
 >      The software is application developed to provide a standard grammar for expressing machine learning tasks with driver bindings in 
 >      different programming languages and computing paradigms. ILLINOIS is the owner of the copyrights in Software as recognized under 
->      United States law and international treaties.    
+>      United States law and international treaties.  
+
    1.5.  "Research Use" means use of the Software for Your non-profit research, development, educational or personal and individual use, and expressly excludes Commercial Use.  
    1.6. "You" (or "Your") means an individual or legal entity exercising rights under, and complying with all of the terms of, this License.  For legal entities, "You" includes any entity that controls, is controlled by, or is under common control with You. For purposes of this License, "control" means ownership, directly or indirectly, of more than fifty percent (50%) of the equity capital of the legal entity.  
 
