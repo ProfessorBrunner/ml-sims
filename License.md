@@ -4,7 +4,7 @@ Standard Machine Learning Language (SMLL) SOFTWARE
 	The Software (as defined below) will only be licensed to You (as defined below) upon the condition that You accept all of the terms and conditions contained in this license agreement ("License").  Please read this License carefully. By downloading and using the Software, You accept the terms and conditions of this License.   
 
 1.     Definitions.
-   1.1.  "Commercial Use" means sale, lease, license, distribution or otherwise making the Software available to a third party.
+   1.1.  &quot;Commercial Use" means sale, lease, license, distribution or otherwise making the Software available to a third party.
    1.2. "Derivative Work" means any derivative work, as defined by U.S. copyright law, of the Software, including any modification, enhancement, upgrade, or improvement to the Software.
    1.3.  "License" means this document.
    1.4. "Software" means the SMLL software source code and object code  
