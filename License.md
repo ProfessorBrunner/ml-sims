@@ -3,26 +3,28 @@ Standard Machine Learning Language (SMLL) SOFTWARE
 
 The Software (as defined below) will only be licensed to You (as defined below) upon the condition that You accept all of the terms and conditions contained in this license agreement ("License").  Please read this License carefully. By downloading and using the Software, You accept the terms and conditions of this License.   
 
-1. Definitions.
+1. Definitions.  
    1.1.  "Commercial Use" means sale, lease, license, distribution or otherwise making the Software available to a third party.  
    1.2. "Derivative Work" means any derivative work, as defined by U.S. copyright law, of the Software, including any modification, enhancement, upgrade, or improvement to the Software.  
    1.3.  "License" means this document.  
    1.4. "Software" means the SMLL software source code and object code    
+
 > The software is application developed to provide a standard grammar for expressing machine learning tasks with driver bindings in 
 > different programming languages and computing paradigms.   ILLINOIS is the owner of the copyrights in Software as recognized under 
 > United States law and international treaties.  
+
    1.5.  "Research Use" means use of the Software for Your non-profit research, development, educational or personal and individual use, and expressly excludes Commercial Use.  
    1.6. "You" (or "Your") means an individual or legal entity exercising rights under, and complying with all of the terms of, this License.  For legal entities, "You" includes any entity that controls, is controlled by, or is under common control with You. For purposes of this License, "control" means ownership, directly or indirectly, of more than fifty percent (50%) of the equity capital of the legal entity.  
 
-2. License Grant and Restrictions.
+2. License Grant and Restrictions.  
    2.1. Subject to Your compliance with the terms and conditions of this License, The Board of Trustees of the University of Illinois ("ILLINOIS"), on behalf of Professor Robert Brunner, hereby grants You a non-exclusive, non-transferable, restricted license to:
-2.1.1. Use the Software for Your Research Use; and
-2.1.2. Create Derivative Works of the Software for Your Research Use.
-   2.2. You shall not make Commercial Use of the Software, Derivative Works of the Software without having executed an appropriate license with ILLINOIS.  Should You wish to make Commercial Use of the Software or Derivative Works of the Software, You shall contact ILLINOIS at otm@illinois.edu to determine whether a license for Commercial Use of the Software may be available.
-   2.3. The Software is owned by ILLINOIS, and ILLINOIS retains all right, title, and interest in and to the Software.
-   2.4. Nothing in this License shall be construed as conferring any license under any of ILLINOIS' or any third party's intellectual property rights, whether by estoppel, implication, or otherwise.
-   2.5. You shall clearly mark and rename all Derivative Works of the Software to notify users that it is a modified version of the Software.
-   2.6. You shall reproduce the following notice on all Derivative :
+2.1.1. Use the Software for Your Research Use; and  
+2.1.2. Create Derivative Works of the Software for Your Research Use.  
+   2.2. You shall not make Commercial Use of the Software, Derivative Works of the Software without having executed an appropriate license with ILLINOIS.  Should You wish to make Commercial Use of the Software or Derivative Works of the Software, You shall contact ILLINOIS at otm@illinois.edu to determine whether a license for Commercial Use of the Software may be available.  
+   2.3. The Software is owned by ILLINOIS, and ILLINOIS retains all right, title, and interest in and to the Software.  
+   2.4. Nothing in this License shall be construed as conferring any license under any of ILLINOIS' or any third party's intellectual property rights, whether by estoppel, implication, or otherwise.  
+   2.5. You shall clearly mark and rename all Derivative Works of the Software to notify users that it is a modified version of the Software.  
+   2.6. You shall reproduce the following notice on all Derivative:
 2.6.1. "This software uses or is derived from Standard Machine Learning Language, developed by Professor Robert J. Brunner's research group at the University of Illinois at Urbana-Champaign. "&copy; Copyright 2016 The Board of Trustees of the University of Illinois."
    2.7. For any reports or published results obtained using the Software, or Derivative Works of the Software, You shall acknowledge use of the Software by the following citation:
 2.7.1. "Standard Machine Learning Language, used by [insert Your name], was developed by Professor Brunner's research group at the University of Illinois at Urbana-Champaign."
@@ -50,22 +52,22 @@ The Software (as defined below) will only be licensed to You (as defined below) 
    7.2. In no event shall ILLINOIS (including its trustees, fellows, officers, employees, students, and agents) be responsible or liable for any direct, indirect, special, incidental, punitive, consequential or other damages whatsoever (including lost profits, business, revenue, use, data, or other economic advantage) in connection with, or arising out of, or related to this License, regardless of the theory of liability, whether for breach or in tort (including negligence), even if ILLINOIS may have been previously advised of the possibility of such damage.
    7.3. Liability for damages shall be limited and excluded as set forth in this Section, even if any remedy provided for in this License fails of its essential purpose.
 
-8. Termination.
-   8.1. This License is effective until terminated, as provided herein, or until all intellectual property rights in the Software expire.
-   8.2. You may terminate this License at any time by destroying all copies of the Software and Derivative Works of the Software.
-   8.3. This License, and the rights granted hereunder, will terminate automatically, and without any further notice from or action by ILLINOIS, if You fail to comply with any obligation of this License.
-   8.4. Upon termination, You must immediately cease use of and destroy all copies of the Software and Derivative Works of the Software and verify such destruction in writing.
-   8.5. The provisions set forth in Sections 3, 5, 6, 7, 9, and 10 shall survive termination or expiration of this License.
+8. Termination.  
+   8.1. This License is effective until terminated, as provided herein, or until all intellectual property rights in the Software expire.  
+   8.2. You may terminate this License at any time by destroying all copies of the Software and Derivative Works of the Software.  
+   8.3. This License, and the rights granted hereunder, will terminate automatically, and without any further notice from or action by ILLINOIS, if You fail to comply with any obligation of this License.  
+   8.4. Upon termination, You must immediately cease use of and destroy all copies of the Software and Derivative Works of the Software and verify such destruction in writing.  
+   8.5. The provisions set forth in Sections 3, 5, 6, 7, 9, and 10 shall survive termination or expiration of this License.  
 
-9. Export Controls. 
-   The Software delivered under this License and any Derivative Works of the Software may be subject to U.S. export control laws and may be subject to export or import regulations in other countries.  You agree to comply strictly with all such laws and regulations and acknowledge that You have the responsibility, at Your own expense, to obtain such licenses to export, re-export, or import as may be required.
+9. Export Controls.   
+   The Software delivered under this License and any Derivative Works of the Software may be subject to U.S. export control laws and may be subject to export or import regulations in other countries.  You agree to comply strictly with all such laws and regulations and acknowledge that You have the responsibility, at Your own expense, to obtain such licenses to export, re-export, or import as may be required.  
 
-10. Miscellaneous.
-   10.1. Governing Law.  This License shall be governed by the laws of the State of Illinois, U.S.A., without regard to any conflict of laws provisions.
-   10.2. Severability.  If any provision of this License is held to be invalid or unenforceable by a court of competent jurisdiction, such invalidity or unenforceability shall not in any way affect the validity or enforceability of the remaining provisions.
-   10.3. Assignment.  You may not assign or otherwise transfer any of Your rights or obligations under this License, without the prior written consent of ILLINOIS.
-   10.4. Entire Agreement.  This License represents the parties' entire agreement relating to the Software.  Except as otherwise provided herein, no modification of this Agreement is binding unless in writing and signed by an authorized representative of each party.
-   10.5. Waiver.  The failure of either party to enforce any provision of this License shall not constitute a waiver of that right or future enforcement of that or any other provision.
+10. Miscellaneous.  
+   10.1. Governing Law.  This License shall be governed by the laws of the State of Illinois, U.S.A., without regard to any conflict of laws provisions.  
+   10.2. Severability.  If any provision of this License is held to be invalid or unenforceable by a court of competent jurisdiction, such invalidity or unenforceability shall not in any way affect the validity or enforceability of the remaining provisions.  
+   10.3. Assignment.  You may not assign or otherwise transfer any of Your rights or obligations under this License, without the prior written consent of ILLINOIS.  
+   10.4. Entire Agreement.  This License represents the parties' entire agreement relating to the Software.  Except as otherwise provided herein, no modification of this Agreement is binding unless in writing and signed by an authorized representative of each party.  
+   10.5. Waiver.  The failure of either party to enforce any provision of this License shall not constitute a waiver of that right or future enforcement of that or any other provision.  
 
 Form approved by University Legal Counsel: EAR 05/2004
 
