@@ -16,43 +16,43 @@ The Software (as defined below) will only be licensed to You (as defined below) 
    1.6. "You" (or "Your") means an individual or legal entity exercising rights under, and complying with all of the terms of, this License.  For legal entities, "You" includes any entity that controls, is controlled by, or is under common control with You. For purposes of this License, "control" means ownership, directly or indirectly, of more than fifty percent (50%) of the equity capital of the legal entity.  
 
 2. License Grant and Restrictions.  
-   2.1. Subject to Your compliance with the terms and conditions of this License, The Board of Trustees of the University of Illinois ("ILLINOIS"), on behalf of Professor Robert Brunner, hereby grants You a non-exclusive, non-transferable, restricted license to:
+   2.1. Subject to Your compliance with the terms and conditions of this License, The Board of Trustees of the University of Illinois ("ILLINOIS"), on behalf of Professor Robert Brunner, hereby grants You a non-exclusive, non-transferable, restricted license to:  
 2.1.1. Use the Software for Your Research Use; and  
 2.1.2. Create Derivative Works of the Software for Your Research Use.  
    2.2. You shall not make Commercial Use of the Software, Derivative Works of the Software without having executed an appropriate license with ILLINOIS.  Should You wish to make Commercial Use of the Software or Derivative Works of the Software, You shall contact ILLINOIS at otm@illinois.edu to determine whether a license for Commercial Use of the Software may be available.  
    2.3. The Software is owned by ILLINOIS, and ILLINOIS retains all right, title, and interest in and to the Software.  
    2.4. Nothing in this License shall be construed as conferring any license under any of ILLINOIS' or any third party's intellectual property rights, whether by estoppel, implication, or otherwise.  
    2.5. You shall clearly mark and rename all Derivative Works of the Software to notify users that it is a modified version of the Software.  
-   2.6. You shall reproduce the following notice on all Derivative:
-2.6.1. "This software uses or is derived from Standard Machine Learning Language, developed by Professor Robert J. Brunner's research group at the University of Illinois at Urbana-Champaign. "&copy; Copyright 2016 The Board of Trustees of the University of Illinois."
-   2.7. For any reports or published results obtained using the Software, or Derivative Works of the Software, You shall acknowledge use of the Software by the following citation:
-2.7.1. "Standard Machine Learning Language, used by [insert Your name], was developed by Professor Brunner's research group at the University of Illinois at Urbana-Champaign."
-2.7.2. You must supply one copy of each such report or publication to ILLINOIS through Professor Robert J. Brunner, Department of Astronomy, 1002 W. Green St., Urbana, IL 61801. 
+   2.6. You shall reproduce the following notice on all Derivative:  
+2.6.1. "This software uses or is derived from Standard Machine Learning Language, developed by Professor Robert J. Brunner's research group at the University of Illinois at Urbana-Champaign. "&copy; Copyright 2016 The Board of Trustees of the University of Illinois."  
+   2.7. For any reports or published results obtained using the Software, or Derivative Works of the Software, You shall acknowledge use of the Software by the following citation:  
+2.7.1. "Standard Machine Learning Language, used by [insert Your name], was developed by Professor Brunner's research group at the University of Illinois at Urbana-Champaign."  
+2.7.2. You must supply one copy of each such report or publication to ILLINOIS through Professor Robert J. Brunner, Department of Astronomy, 1002 W. Green St., Urbana, IL 61801.   
 
-3. Confidential Information.
+3. Confidential Information.  
    3.1. You acknowledge that the Software is proprietary to ILLINOIS.  You agree to protect the Software from unauthorized disclosure, use, or release and to treat the Software with at least the same level of care as You use to protect Your own proprietary computer programs and/or confidential information, but in no event less than a reasonable standard of care.  
-   3.2. If You become aware of any unauthorized licensing, copying or use of the Software, You shall promptly notify ILLINOIS in writing at otm@uiuc.edu.
-   3.3. You agree to use the Software only in the manner and for the specific uses authorized in this License.
+   3.2. If You become aware of any unauthorized licensing, copying or use of the Software, You shall promptly notify ILLINOIS in writing at otm@uiuc.edu.  
+   3.3. You agree to use the Software only in the manner and for the specific uses authorized in this License.  
 
-4. Feedback/Contributions
+4. Feedback/Contributions  
    4.1. Because the Software is being distributed pursuant to the License for Research Use, ILLINOIS encourages licensees of the Software to provide feedback on the design of the Software.  ILLINOIS also encourages licensees of the Software to provide information regarding their experience with integrating the Software into their research.  Please submit such feedback to Professor Robert J. Brunner at bigdog@illinois.edu.  
-   4.2. ILLINOIS encourages contributions from users of the Software that might be used or incorporated by ILLINOIS, in its sole discretion, into future versions or revisions of the Software.  Licensees who contribute code agree that such code may be distributed by ILLINOIS under the terms of this License and may be required to sign an agreement with ILLINOIS before ILLINOIS can accept the code.  Please contact otm@illinois.edu for a copy of such agreement.
+   4.2. ILLINOIS encourages contributions from users of the Software that might be used or incorporated by ILLINOIS, in its sole discretion, into future versions or revisions of the Software.  Licensees who contribute code agree that such code may be distributed by ILLINOIS under the terms of this License and may be required to sign an agreement with ILLINOIS before ILLINOIS can accept the code.  Please contact otm@illinois.edu for a copy of such agreement.  
 
 5. Limitation of Warranties.  
-   5.1. EXCEPT AS EXPRESSLY SET FORTH IN THIS LICENSE, TO THE FULLEST EXTENT ALLOWED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED "AS IS," AND ILLINOIS DISCLAIMS ALL EXPRESS OR IMPLIED CONDITIONS, REPRESENTATIONS AND WARRANTIES, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
-   5.2. THIS LIMITATION OF WARRANTY IS AN ESSENTIAL PART OF THIS LICENSE.  NO USE OF THE SOFTWARE IS AUTHORIZED HEREUNDER EXCEPT UNDER THIS DISCLAIMER.
-   5.3. ANY MATERIAL DOWNLOADED IS AT YOUR OWN DISCRETION AND RISK, AND YOU ARE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR LOSS OF DATA THAT RESULTS FROM THE DOWNLOAD OF SUCH MATERIAL, INCLUDING ANY DAMAGES RESULTING FROM COMPUTER VIRUSES.
+   5.1. EXCEPT AS EXPRESSLY SET FORTH IN THIS LICENSE, TO THE FULLEST EXTENT ALLOWED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED "AS IS," AND ILLINOIS DISCLAIMS ALL EXPRESS OR IMPLIED CONDITIONS, REPRESENTATIONS AND WARRANTIES, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.  
+   5.2. THIS LIMITATION OF WARRANTY IS AN ESSENTIAL PART OF THIS LICENSE.  NO USE OF THE SOFTWARE IS AUTHORIZED HEREUNDER EXCEPT UNDER THIS DISCLAIMER.  
+   5.3. ANY MATERIAL DOWNLOADED IS AT YOUR OWN DISCRETION AND RISK, AND YOU ARE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR LOSS OF DATA THAT RESULTS FROM THE DOWNLOAD OF SUCH MATERIAL, INCLUDING ANY DAMAGES RESULTING FROM COMPUTER VIRUSES.  
 
 6. Indemnification.  
-   You shall indemnify ILLINOIS (including its trustees, fellows, officers, employees, students, and agents) against any and all claims, losses, damages, and/or liability of whatsoever nature, as well as costs and expenses (including legal expenses and reasonable attorneys' fees) arising out of or related to Your use, or inability to use, the Software or Derivative Works of the Software, regardless of theory of liability, whether for breach or in tort (including negligence).
+   You shall indemnify ILLINOIS (including its trustees, fellows, officers, employees, students, and agents) against any and all claims, losses, damages, and/or liability of whatsoever nature, as well as costs and expenses (including legal expenses and reasonable attorneys' fees) arising out of or related to Your use, or inability to use, the Software or Derivative Works of the Software, regardless of theory of liability, whether for breach or in tort (including negligence).  
 
 7. Limitation of Liability.  
-   7.1. You assume the entire risk as to the quality, results, performance, and/or non-performance of the Software and all Derivative Works of the Software.  Should the Software or Derivative Works of the Software prove defective in any manner, You assume the entire cost of any necessary, servicing, repair or correction.
-   7.2. In no event shall ILLINOIS (including its trustees, fellows, officers, employees, students, and agents) be responsible or liable for any direct, indirect, special, incidental, punitive, consequential or other damages whatsoever (including lost profits, business, revenue, use, data, or other economic advantage) in connection with, or arising out of, or related to this License, regardless of the theory of liability, whether for breach or in tort (including negligence), even if ILLINOIS may have been previously advised of the possibility of such damage.
-   7.3. Liability for damages shall be limited and excluded as set forth in this Section, even if any remedy provided for in this License fails of its essential purpose.
+   7.1. You assume the entire risk as to the quality, results, performance, and/or non-performance of the Software and all Derivative Works of the Software.  Should the Software or Derivative Works of the Software prove defective in any manner, You assume the entire cost of any necessary, servicing, repair or correction.  
+   7.2. In no event shall ILLINOIS (including its trustees, fellows, officers, employees, students, and agents) be responsible or liable for any direct, indirect, special, incidental, punitive, consequential or other damages whatsoever (including lost profits, business, revenue, use, data, or other economic advantage) in connection with, or arising out of, or related to this License, regardless of the theory of liability, whether for breach or in tort (including negligence), even if ILLINOIS may have been previously advised of the possibility of such damage.  
+   7.3. Liability for damages shall be limited and excluded as set forth in this Section, even if any remedy provided for in this License fails of its essential purpose.  
 
 8. Termination.  
-   8.1. This License is effective until terminated, as provided herein, or until all intellectual property rights in the Software expire.  
+   8.1. This License is effective until terminated, as provided herein, or until all intellectual property rights in the Software expire.    
    8.2. You may terminate this License at any time by destroying all copies of the Software and Derivative Works of the Software.  
    8.3. This License, and the rights granted hereunder, will terminate automatically, and without any further notice from or action by ILLINOIS, if You fail to comply with any obligation of this License.  
    8.4. Upon termination, You must immediately cease use of and destroy all copies of the Software and Derivative Works of the Software and verify such destruction in writing.  
