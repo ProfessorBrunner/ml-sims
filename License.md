@@ -1,16 +1,18 @@
 NON-EXCLUSIVE RESEARCH USE LICENSE FOR
 Standard Machine Learning Language (SMLL) SOFTWARE
 
-The Software (as defined below) will only be licensed to You (as defined below) upon the condition that You accept all of the > terms and conditions contained in this license agreement ("License").  Please read this License carefully. By downloading and using the Software, You accept the terms and conditions of this License.   
+The Software (as defined below) will only be licensed to You (as defined below) upon the condition that You accept all of the terms and conditions contained in this license agreement ("License").  Please read this License carefully. By downloading and using the Software, You accept the terms and conditions of this License.   
 
 1. Definitions.
-   1.1.  &quot;Commercial Use" means sale, lease, license, distribution or otherwise making the Software available to a third party.
-   1.2. "Derivative Work" means any derivative work, as defined by U.S. copyright law, of the Software, including any modification, enhancement, upgrade, or improvement to the Software.
-   1.3.  "License" means this document.
-   1.4. "Software" means the SMLL software source code and object code  
-The software is application developed to provide a standard grammar for expressing machine learning tasks with driver bindings in different programming languages and computing paradigms.   ILLINOIS is the owner of the copyrights in Software as recognized under United States law and international treaties.
-   1.5.  "Research Use" means use of the Software for Your non-profit research, development, educational or personal and individual use, and expressly excludes Commercial Use.
-   1.6. "You" (or "Your") means an individual or legal entity exercising rights under, and complying with all of the terms of, this License.  For legal entities, "You" includes any entity that controls, is controlled by, or is under common control with You. For purposes of this License, "control" means ownership, directly or indirectly, of more than fifty percent (50%) of the equity capital of the legal entity.
+   1.1.  "Commercial Use" means sale, lease, license, distribution or otherwise making the Software available to a third party.  
+   1.2. "Derivative Work" means any derivative work, as defined by U.S. copyright law, of the Software, including any modification, enhancement, upgrade, or improvement to the Software.  
+   1.3.  "License" means this document.  
+   1.4. "Software" means the SMLL software source code and object code    
+> The software is application developed to provide a standard grammar for expressing machine learning tasks with driver bindings in 
+> different programming languages and computing paradigms.   ILLINOIS is the owner of the copyrights in Software as recognized under 
+> United States law and international treaties.  
+   1.5.  "Research Use" means use of the Software for Your non-profit research, development, educational or personal and individual use, and expressly excludes Commercial Use.  
+   1.6. "You" (or "Your") means an individual or legal entity exercising rights under, and complying with all of the terms of, this License.  For legal entities, "You" includes any entity that controls, is controlled by, or is under common control with You. For purposes of this License, "control" means ownership, directly or indirectly, of more than fifty percent (50%) of the equity capital of the legal entity.  
 
 2. License Grant and Restrictions.
    2.1. Subject to Your compliance with the terms and conditions of this License, The Board of Trustees of the University of Illinois ("ILLINOIS"), on behalf of Professor Robert Brunner, hereby grants You a non-exclusive, non-transferable, restricted license to:
